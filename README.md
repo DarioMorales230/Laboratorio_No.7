@@ -188,26 +188,27 @@ b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre lo
 
 - Frecuencia: 0 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131353127-90dde3b1-4f2d-4201-b4a4-d147b2307e3e.png)
 
 - Frecuencia: 10 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131353283-446cbcab-09ba-440b-b4e9-497e5cb03c9a.png)
 
 - Frecuencia: 50 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131353681-ecfebbbf-d533-4704-99b4-7f3c56b08a2f.png)
 
 - Frecuencia: 100 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131353803-9b7f8e9b-7ea8-45f0-b22e-58a9a4a13945.png)
 
 - Frecuencia: 500 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131352784-f0082779-8e26-41d2-b71b-1d7cd36af2ee.png)
 
 - Frecuencia: 1000 Hz
 
+![image](https://user-images.githubusercontent.com/85144847/131352488-2b4ee15d-e90b-400f-a561-c26318c71d48.png)
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
@@ -234,6 +235,8 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 - Frecuencia: 1000 Hz
 
 ![image](https://user-images.githubusercontent.com/85144847/131352231-facec62b-536f-4a07-ad94-0b2cbe0e2a19.png)
+
+3.4.- Como logramos apreciar los valores voltaje-corriente varias bastante por la onda senosoidal formada por la corriente alterna.
 
 4. RESPUESTA A INTERROGANTES
 

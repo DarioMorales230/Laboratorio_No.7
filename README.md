@@ -42,9 +42,170 @@ Analizar, explicar y demostrar experimentalmente todas las funciones del inducto
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
+- Frecuencia: 0 Hz
+
+- Voltaje pico: -9.86 v
+
+![image](https://user-images.githubusercontent.com/85144847/131309181-11dc1b01-1274-453b-9f6a-b15d3f926933.png)
+
+- Frecuencia: 10 Hz
+
+- Voltaje pico: 9.64 v
+
+![image](https://user-images.githubusercontent.com/85144847/131309671-04b18352-cd42-4812-8d84-ce3e3292809f.png)
+
+- Frecuencia: 50 Hz
+
+- Voltaje pico: 9.3 v
+
+![image](https://user-images.githubusercontent.com/85144847/131309971-e7c7d8b0-194b-4464-9537-a5f395c40524.png)
+
+- Frecuencia: 100 Hz
+
+- Voltaje pico: 6.8 v
+
+![image](https://user-images.githubusercontent.com/85144847/131310583-ff916d81-6624-4fdf-8105-f6e0136c095f.png)
+
+- Frecuencia: 500 Hz
+
+- Voltaje pico: 1.7 v
+
+![image](https://user-images.githubusercontent.com/85144847/131310967-028f9376-aa19-4003-a1fb-071a9cda9998.png)
+
+- Frecuencia: 1000 Hz
+
+- Voltaje pico: 0.68 v
+
+![image](https://user-images.githubusercontent.com/85144847/131311480-777ce580-6ed2-4258-8b14-49b34eccfd9a.png)
+
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
+- Frecuencia: 0 Hz
+
+![image](https://user-images.githubusercontent.com/85144847/131313337-b5cd7f1f-0b25-4c27-ad05-471a443f7fe1.png)
+
+
+- Frecuencia: 10 Hz
+
+![image](https://user-images.githubusercontent.com/85144847/131312875-d126f838-8d42-471e-a239-2ef165e8808f.png)
+
+
+- Frecuencia: 50 Hz
+
+![image](https://user-images.githubusercontent.com/85144847/131313513-d3bb1437-bf9d-486b-a770-a8c9ec3d93ec.png)
+
+
+- Frecuencia: 100 Hz
+
+![image](https://user-images.githubusercontent.com/85144847/131313605-50144a01-2058-4ef1-a5d1-7d66ceb63413.png)
+
+- Frecuencia: 500 Hz
+
+![image](https://user-images.githubusercontent.com/85144847/131313846-bc57d12f-d2db-44be-b012-13505cb8fd92.png)
+
+- Frecuencia: 1000 Hz
+
+![image](https://user-images.githubusercontent.com/85144847/131313919-f38512c6-e386-4e86-9f29-67ffe0d0d8e0.png)
+
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+- Frecuencia: 0 Hz
+
+
+
+- Frecuencia: 10 Hz
+
+
+
+- Frecuencia: 50 Hz
+
+
+
+- Frecuencia: 100 Hz
+
+
+
+- Frecuencia: 500 Hz
+
+
+
+- Frecuencia: 1000 Hz
+
+- Construya el circuito mostrado en la Figura 2
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+
+- Frecuencia: 0 Hz
+
+
+
+- Frecuencia: 10 Hz
+
+
+
+- Frecuencia: 50 Hz
+
+
+
+- Frecuencia: 100 Hz
+
+
+
+- Frecuencia: 500 Hz
+
+
+
+- Frecuencia: 1000 Hz
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+- Frecuencia: 0 Hz
+
+
+
+- Frecuencia: 10 Hz
+
+
+
+- Frecuencia: 50 Hz
+
+
+
+- Frecuencia: 100 Hz
+
+
+
+- Frecuencia: 500 Hz
+
+
+
+- Frecuencia: 1000 Hz
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+- Frecuencia: 0 Hz
+
+
+
+- Frecuencia: 10 Hz
+
+
+
+- Frecuencia: 50 Hz
+
+
+
+- Frecuencia: 100 Hz
+
+
+
+- Frecuencia: 500 Hz
+
+
+
+- Frecuencia: 1000 Hz
+
+
 
 4. RESPUESTA A INTERROGANTES
 

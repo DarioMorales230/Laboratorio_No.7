@@ -34,7 +34,11 @@
 
 6. CONCLUSIONES
 
+- Como demuestra la práctica del laboratorio al momento de simular se debe considera un tiempo de simulación adecuado ya que este determinara el número de periodos que trabajara sobre la frecuencia.
 
+- Al terminar la presente práctica, se pudo observar que mientras mayor sea la frecuencia la impedancia capacitiva será menor, mientras que mayor sea la frecuencia la impedancia inductiva será mayor
+
+- Al observar el comportamiento de la bobina y el capacitor los datos obtenidos por medio del software DCACLab y el osciloscopio nos dan resultados aproximadamente igual a los datos de las tablas elaboradas. Con esto se verifica que la medición, así como la simulación del circuito se llevó a cabo fue realizada de la manera correcta
 
 7. RECOMENDACIONES
 

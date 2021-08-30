@@ -4,7 +4,7 @@
 
 1. OBJETIVOS
 
-1.1.- Objetivo Genral.
+1.1.- Objetivo General.
 
 
 

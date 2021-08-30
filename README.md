@@ -32,8 +32,11 @@ Analizar, explicar y demostrar experimentalmente todas las funciones del inducto
 
 - Una bobina (componentes pasivos de dos terminales que generan un flujo magnético cuando se hace circular por ellas una corriente eléctrica. Se fabrican arrollando un hilo conductor sobre un núcleo de material ferromagnético o al aire. Su unidad de medida es el Henrio) ideal en corriente continua se comporta como un cortocircuito, ya que al ser i(t) constante es decir no varía con el tiempo, no hay autoinducción de ninguna.
 
-El capacitor se comporta como un circuito abierto para corriente continua y la bobina como un cortocircuito. En un circuito complementado en corriente continua se puede entender un condensador como un interruptor abierto es decir no deja pasar corriente (por lo que no hay presencia de intensidad) sin embargo esta la presencia de voltaje debido a que en el condensador posee una reactancia.
+![image](https://user-images.githubusercontent.com/85144847/131302901-baee6b35-435b-4524-b024-28bd16458578.png)
 
+- El capacitor (un condensador es un componente electrónico capaz de almacenar energía eléctrica) se comporta como un circuito abierto para corriente continua es decir no deja pasar corriente (por lo que no hay presencia de intensidad) sin embargo esta la presencia de voltaje debido a que en el condensador posee una reactancia.
+
+![image](https://user-images.githubusercontent.com/85144847/131302659-f3a86f44-5ebe-49ef-b819-2a9a6c8e4a5e.png)
 
 4.2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
@@ -75,7 +78,7 @@ Entonces el valor eficaz de una corriente alterna, es el valor que tendría una 
 
 - colaboradores de Wikipedia. (2021b, agosto 13). Inductor. Recuperado 29 de agosto de 2021, de https://es.wikipedia.org/wiki/Inductor
 
-
+- Morales, J. A. R. (2021, 15 mayo). Funcionamiento del condensador. Recuperado 29 de agosto de 2021, de https://pasionelectronica.com/funcionamiento-del-condensador/
 
 
 

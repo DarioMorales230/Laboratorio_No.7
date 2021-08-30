@@ -4,11 +4,11 @@
 
 1. OBJETIVOS
 
-1.1. Objetivo Genral.
+1.1.- Objetivo Genral.
 
 
 
-1.2. Objetivos Especificos.
+1.2.- Objetivos Especificos.
 
 - Examinar el comportamiento existente de la bobina y el capacitor en circuitos AC.
 
@@ -26,7 +26,13 @@
 
 4. RESPUESTA A INTERROGANTES
 
+4.1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+4.2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+4.3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+4.4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
 5. VIDEO DE YOUTUBE
 

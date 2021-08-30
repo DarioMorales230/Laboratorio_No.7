@@ -22,7 +22,17 @@ Analizar, explicar y demostrar experimentalmente todas las funciones del inducto
 
 3. EXPLICACION DEL PROCEDIMIENTO
 
+3.1.- Abrir nuestra guia metodologica acerca de la practica y analizar el o los circuito señalado tambien ver que elementos electricos tiene.
 
+3.2.- Vemos los materiales que vamos a utilizar en esta pactica. 
+
+- Generador de señales
+- Fuente DC.
+- Osciloscopio.
+- Protoboard
+- Multímetro
+- Cables conductores
+- Resistencias, bobinas y capacitores.
 
 4. RESPUESTA A INTERROGANTES
 

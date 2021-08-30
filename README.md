@@ -38,6 +38,8 @@ Se denomina valor eficaz al valor cuadrático medio de una magnitud eléctrica e
   
 Entonces el valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia. Cuando decimos que la tensión de alimentación en un circuito es de 230 V nos estamos refiriendo a su valor eficaz.
 
+![image](https://user-images.githubusercontent.com/85144847/131301235-a95aad46-242d-4cca-864e-b85c8e77d8eb.png)
+
 5. VIDEO DE YOUTUBE
 
 

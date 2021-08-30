@@ -38,11 +38,23 @@ Analizar, explicar y demostrar experimentalmente todas las funciones del inducto
 
 4.2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
+- Una bobina cuando son conectadas a corriente alterna con frecuencia, cumplen su función de inductancia es decir además de poseer corriente esta también tiene la presencia de voltaje debido al efecto de frecuencia. Las bobinas se pueden utilizar para “Adelantar voltaje y retrasar corriente” dependiendo de cómo se utiliza paramejorar el factor de potencia.
+
+![image](https://user-images.githubusercontent.com/85144847/131304633-71cc29a3-1935-44d8-b030-2361fc4bc8a5.png)
+
+- La capacitancia cuando esta esta conectada a corriente alterna con frecuencia sucede que deja pasar corriente y tiene la presencia del voltaje todo debido al efecto que tiene la corriente alterna en el elemento. Los condensadores se utilizan para “Adelantar corriente y atrasar voltaje” dependiendo para mejorar el factor de potencia.
+
+![image](https://user-images.githubusercontent.com/85144847/131304696-76bb573c-db9f-4d8e-a113-6b861f840876.png)
+
 4.3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Lo que creemos con firmesa mi grupo de trabajo y yo al momento de conectar dos bobinas o condensadores de diferentes valores se facilitaran las respectivas mediciones al momento de encontrar el valor de Vo porque podemos reducir el circuito a su mínima expresión y tambien podemos utilizar el teorema de  impedancias asi con ello podremos encontrar los triangulos fasoriales, con ello daremos cabo a su resolucion tanto teoricamente como practica.
+
+![image](https://user-images.githubusercontent.com/85144847/131305429-c4231a01-be57-438e-86ae-10bb410c7f67.png)
 
 4.4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-Se denomina valor eficaz al valor cuadrático medio de una magnitud eléctrica este concepto de valor eficaz se utiliza especialmente para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas las formas de onda, constantes o no. En ocasiones se denomina con el extranjerismo RMS (root mean square, raíz cuadrática media). Este valor coincide con el valor cuadrático medio (raíz cuadrada del valor medio del cuadrado de la función en un período)
+Se denomina valor eficaz al valor cuadrático medio de una magnitud eléctrica este concepto de valor eficaz se utiliza especialmente para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas las formas de onda, constantes o no. En ocasiones se denomina con el extranjerismo RMS (root mean square, raíz cuadrática media). Este valor coincide con el valor cuadrático medio (raíz cuadrada del valor medio del cuadrado de la función en un período).
   
 Entonces el valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia. Cuando decimos que la tensión de alimentación en un circuito es de 230 V nos estamos refiriendo a su valor eficaz.
 

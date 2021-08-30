@@ -18,7 +18,7 @@
 
 2. MARCO TEORICO
 
-
+![WhatsApp Image 2021-08-30 at 01 56 18](https://user-images.githubusercontent.com/85144847/131298408-4ec28c5c-b8f0-4afc-98bb-6c3de35355c5.jpeg)
 
 3. EXPLICACION DEL PROCEDIMIENTO
 

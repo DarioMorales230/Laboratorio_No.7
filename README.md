@@ -6,7 +6,7 @@
 
 1.1.- Objetivo General.
 
-
+Analizar. explicar y demostrar experimentalmente todas las funciones del inductor y la capacitancia dentro del circuito planteado, así como el de interpretar las mediciones tomadas mediante el osciloscopio y multimetro de voltaje - corriente.
 
 1.2.- Objetivos Especificos.
 

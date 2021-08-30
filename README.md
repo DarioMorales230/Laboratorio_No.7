@@ -133,31 +133,56 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![image](https://user-images.githubusercontent.com/85144847/131347124-aa513e90-3f1d-4ff1-8c0d-d971329f40ac.png)
 
-- Construya el circuito mostrado en la Figura 2
+- Construya el circuito mostrado en la Figura 2.
+
+![image](https://user-images.githubusercontent.com/85144847/131347754-1514fcb1-d1b0-441a-a37e-7fb910979f82.png)
+
+![image](https://user-images.githubusercontent.com/85144847/131347808-0baa5b21-c438-445b-984d-1a32bace5cc6.png)
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
 - Frecuencia: 0 Hz
 
+- Voltaje pico: 
 
+![image](https://user-images.githubusercontent.com/85144847/131348903-a48cdc97-00a2-4bdc-9e93-d8d8126f2092.png)
+
+
+- Frecuencia: 0 Hz
+
+- Voltaje pico: 0.7 mv
+
+![image](https://user-images.githubusercontent.com/85144847/131351317-0c1035fb-37fc-4d2a-95b6-9736b87bdc28.png)
 
 - Frecuencia: 10 Hz
 
+- Voltaje pico: 301 mv
 
+![image](https://user-images.githubusercontent.com/85144847/131350929-1e152b0d-1a00-485d-8e07-c06846c3cd42.png)
 
 - Frecuencia: 50 Hz
 
+- Voltaje pico: 1.78 v
 
+![image](https://user-images.githubusercontent.com/85144847/131350527-d21e9cf3-bda8-449c-9f30-09fce64f67da.png)
 
 - Frecuencia: 100 Hz
 
+- Voltaje pico: 3.46 v
 
+![image](https://user-images.githubusercontent.com/85144847/131350398-5bc5db3f-86ed-4145-a4dd-513e09c938fd.png)
 
 - Frecuencia: 500 Hz
 
+- Voltaje pico: 8.75 v
 
+![image](https://user-images.githubusercontent.com/85144847/131350175-9bb9da0a-f45c-4266-89b1-b763d134aca4.png)
 
 - Frecuencia: 1000 Hz
+
+- Voltaje pico: 9.86 v
+
+![image](https://user-images.githubusercontent.com/85144847/131350024-0d9b4f28-7dba-4bcb-b2e6-03e51857aa50.png)
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
@@ -182,6 +207,7 @@ b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre lo
 
 
 - Frecuencia: 1000 Hz
+
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 

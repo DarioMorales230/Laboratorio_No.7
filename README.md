@@ -34,6 +34,18 @@ Analizar, explicar y demostrar experimentalmente todas las funciones del inducto
 - Cables conductores
 - Resistencias, bobinas y capacitores.
 
+3.3.- Realizamos lo pedido: 
+
+- Construya en el protoboard el circuito mostrado en la Figura 1.
+
+![image](https://user-images.githubusercontent.com/85144847/131307722-dde80765-eb12-4502-a7cf-3c97f22da030.png)
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
 4. RESPUESTA A INTERROGANTES
 
 4.1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?

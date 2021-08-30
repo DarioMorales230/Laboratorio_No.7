@@ -133,6 +133,11 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![image](https://user-images.githubusercontent.com/85144847/131347124-aa513e90-3f1d-4ff1-8c0d-d971329f40ac.png)
 
+- Tabla:
+
+![image](https://user-images.githubusercontent.com/85144847/131360951-563e37ab-5cbe-4031-a2a1-e1305abaebe1.png)
+
+
 - Construya el circuito mostrado en la Figura 2.
 
 ![image](https://user-images.githubusercontent.com/85144847/131347754-1514fcb1-d1b0-441a-a37e-7fb910979f82.png)

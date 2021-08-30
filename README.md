@@ -28,6 +28,13 @@ Analizar, explicar y demostrar experimentalmente todas las funciones del inducto
 
 4.1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+(ya que las bobinas son realmente cables enrollados que soloconducen), sin embargo, no posee voltaje debido a que las bobinas en cc actúan como un corto circuito (se unen los polos positivo y negativo sin tener una carga)
+
+- Una bobina (componentes pasivos de dos terminales que generan un flujo magnético cuando se hace circular por ellas una corriente eléctrica. Se fabrican arrollando un hilo conductor sobre un núcleo de material ferromagnético o al aire. Su unidad de medida es el Henrio) ideal en corriente continua se comporta como un cortocircuito, ya que al ser i(t) constante es decir no varía con el tiempo, no hay autoinducción de ninguna.
+
+El capacitor se comporta como un circuito abierto para corriente continua y la bobina como un cortocircuito. En un circuito complementado en corriente continua se puede entender un condensador como un interruptor abierto es decir no deja pasar corriente (por lo que no hay presencia de intensidad) sin embargo esta la presencia de voltaje debido a que en el condensador posee una reactancia.
+
+
 4.2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 4.3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
@@ -66,7 +73,7 @@ Entonces el valor eficaz de una corriente alterna, es el valor que tendría una 
 
 - colaboradores de Wikipedia. (2021, 19 mayo). Valor eficaz. Recuperado 29 de agosto de 2021, de https://es.wikipedia.org/wiki/Valor_eficaz
 
-
+- colaboradores de Wikipedia. (2021b, agosto 13). Inductor. Recuperado 29 de agosto de 2021, de https://es.wikipedia.org/wiki/Inductor
 
 
 

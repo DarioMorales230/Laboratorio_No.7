@@ -28,15 +28,13 @@ Analizar, explicar y demostrar experimentalmente todas las funciones del inducto
 
 4.1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-(ya que las bobinas son realmente cables enrollados que soloconducen), sin embargo, no posee voltaje debido a que las bobinas en cc actúan como un corto circuito (se unen los polos positivo y negativo sin tener una carga)
-
 - Una bobina (componentes pasivos de dos terminales que generan un flujo magnético cuando se hace circular por ellas una corriente eléctrica. Se fabrican arrollando un hilo conductor sobre un núcleo de material ferromagnético o al aire. Su unidad de medida es el Henrio) ideal en corriente continua se comporta como un cortocircuito, ya que al ser i(t) constante es decir no varía con el tiempo, no hay autoinducción de ninguna.
 
-![image](https://user-images.githubusercontent.com/85144847/131302901-baee6b35-435b-4524-b024-28bd16458578.png)
+![image](https://user-images.githubusercontent.com/85144847/131303750-7cb3a919-a6d8-4305-a536-9fe76ed11c1e.png)
 
 - El capacitor (un condensador es un componente electrónico capaz de almacenar energía eléctrica) se comporta como un circuito abierto para corriente continua es decir no deja pasar corriente (por lo que no hay presencia de intensidad) sin embargo esta la presencia de voltaje debido a que en el condensador posee una reactancia.
 
-![image](https://user-images.githubusercontent.com/85144847/131302659-f3a86f44-5ebe-49ef-b819-2a9a6c8e4a5e.png)
+![image](https://user-images.githubusercontent.com/85144847/131303610-75d8fd22-4772-40bf-84d8-be9deaf05734.png)
 
 4.2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 

@@ -111,25 +111,27 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 - Frecuencia: 0 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131346706-74be476f-fb42-4731-baf6-83930249beaa.png)
 
 - Frecuencia: 10 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131346799-7a655830-5ef4-4f22-8b2f-02748ebaaf95.png)
 
 - Frecuencia: 50 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131346567-f235cef3-deb9-4666-a890-fc243b20bc12.png)
 
 - Frecuencia: 100 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131346887-b65f8e8f-eddc-483f-928a-a75cff47322c.png)
 
 - Frecuencia: 500 Hz
 
-
+![image](https://user-images.githubusercontent.com/85144847/131346944-e1ec4a75-2e0d-4dd0-bab3-e740565d811c.png)
 
 - Frecuencia: 1000 Hz
+
+![image](https://user-images.githubusercontent.com/85144847/131347124-aa513e90-3f1d-4ff1-8c0d-d971329f40ac.png)
 
 - Construya el circuito mostrado en la Figura 2
 

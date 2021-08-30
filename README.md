@@ -34,6 +34,10 @@ Analizar, explicar y demostrar experimentalmente todas las funciones del inducto
 
 4.4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
+Se denomina valor eficaz al valor cuadrático medio de una magnitud eléctrica este concepto de valor eficaz se utiliza especialmente para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas las formas de onda, constantes o no. En ocasiones se denomina con el extranjerismo RMS (root mean square, raíz cuadrática media). Este valor coincide con el valor cuadrático medio (raíz cuadrada del valor medio del cuadrado de la función en un período)
+  
+Entonces el valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia. Cuando decimos que la tensión de alimentación en un circuito es de 230 V nos estamos refiriendo a su valor eficaz.
+
 5. VIDEO DE YOUTUBE
 
 
@@ -58,7 +62,7 @@ Analizar, explicar y demostrar experimentalmente todas las funciones del inducto
 
 - EL OSCILOSCOPIO. (s. f.). Recuperado 29 de agosto de 2021, de https://www.electronicafacil.net/tutoriales/Uso-del-osciloscopio.html
 
-
+- colaboradores de Wikipedia. (2021, 19 mayo). Valor eficaz. Recuperado 29 de agosto de 2021, de https://es.wikipedia.org/wiki/Valor_eficaz
 
 
 

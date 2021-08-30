@@ -276,7 +276,7 @@ Entonces el valor eficaz de una corriente alterna, es el valor que tendría una 
 
 5. VIDEO DE YOUTUBE
 
-
+https://youtu.be/hGc7umyJfK0
 
 6. CONCLUSIONES
 
